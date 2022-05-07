@@ -5,4 +5,4 @@
 4. 能够切换界面模式为透明或白底
 
 # 项目演示链接
-[书辰の快捷搜索]('https://quick-search-6g21gzoj0d385ca0-1311417909.tcloudbaseapp.com/')
+[书辰の快捷搜索](https://quick-search-6g21gzoj0d385ca0-1311417909.tcloudbaseapp.com)
